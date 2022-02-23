@@ -29,9 +29,13 @@ button {
   border-radius: 15px;
   text-transform: uppercase;
   background-color: #3267b6;
-  color: #ffff
+  color: #ffff;
 }
 
-button:hover{
+button:hover {
   background-color: rgba(50, 103, 182, 0.8);
+}
+
+.error {
+  color: rgba(255, 80, 80, 0.753);
 }
